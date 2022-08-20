@@ -34,8 +34,8 @@
     "plugins.zip": "Plugins",
     "studiofonts.zip": "StudioFonts",
 
-    "robloxstudio.zip": "",  # RobloxStudioBeta.exe
-    "robloxapp.zip": "",  # RobloxPlayerBeta.exe
+    "robloxstudio.zip": "",
+    "robloxapp.zip": "",
 
     "redist.zip": "",
     "libraries.zip": "",
